@@ -45,7 +45,8 @@ This project showcases an interactive Power BI dashboard developed to analyze gl
 
 ## 🤝 Let’s Connect
 
-If you like this project, feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/abdul-razzaq-095aab2b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )) or check out more projects in my GitHub.
+If you like this project, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-razzaq-095aab2b6) or check out more projects on my GitHub.
+
 
 ---
 
