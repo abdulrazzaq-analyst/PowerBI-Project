@@ -19,7 +19,8 @@ This project showcases an interactive Power BI dashboard developed to analyze gl
 
 ## 📸 Dashboard Preview
 
-<img width="1762" height="990" alt="dashboard" src="https://github.com/user-attachments/assets/626eda42-c761-434a-951a-6d70dc04c36c" />
+<img width="1762" height="992" alt="dashboard" src="https://github.com/user-attachments/assets/e1e166df-d0cd-4303-8072-18d0c57fa83d" />
+
 
 
 ---
