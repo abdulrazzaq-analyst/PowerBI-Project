@@ -51,7 +51,7 @@ This Power BI project is built to demonstrate dynamic dashboard design with inte
 ## 🔗 Live Preview / Demo Video
 
 🎥 Watch full interactive walkthrough:  
-👉 [[Insert YouTube or Google Drive link here](https://drive.google.com/file/d/1_rEbsTQvVdJWk0lv7TUKGeRsm7jBTj5w/view?usp=drivesdk)]
+👉 [[Google Drive link](https://drive.google.com/file/d/1_rEbsTQvVdJWk0lv7TUKGeRsm7jBTj5w/view?usp=drivesdk)]
 
 ---
 
