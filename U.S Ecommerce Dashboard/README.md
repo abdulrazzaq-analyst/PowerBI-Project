@@ -1,7 +1,7 @@
 # 📊 Power BI Project – KPI-Driven Sales & Profit Dashboard
 
 This Power BI project is built to demonstrate dynamic dashboard design with interactive navigation using KPI cards. The report provides insights into sales, profit, discounts, and customer segments for an e-commerce dataset.
-![Project 2 of power bi_page-0002](https://github.com/user-attachments/assets/fb5fafc9-269d-4f0f-8177-2c64ada9a2bd)
+![Project 2 of power bi_page-0003](https://github.com/user-attachments/assets/1c6eddc1-1062-4321-9d71-998b336b24d9)
 
 
 ---
