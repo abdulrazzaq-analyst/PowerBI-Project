@@ -48,18 +48,10 @@ This Power BI project is built to demonstrate dynamic dashboard design with inte
 
 ---
 
-## 📁 Files Included
-
-- `PowerBI_Project2.pbix` – Main report file (interactive)
-- `PowerBI_Project2.pdf` – Static overview (non-interactive)
-- `Project_Demo_Video.mp4` – Walkthrough of interactive report
-
----
-
 ## 🔗 Live Preview / Demo Video
 
 🎥 Watch full interactive walkthrough:  
-👉 [Insert YouTube or Google Drive link here]
+👉 [[Insert YouTube or Google Drive link here](https://drive.google.com/file/d/1_rEbsTQvVdJWk0lv7TUKGeRsm7jBTj5w/view?usp=drivesdk)]
 
 ---
 
