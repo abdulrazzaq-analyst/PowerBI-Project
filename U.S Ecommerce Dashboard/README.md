@@ -20,9 +20,9 @@ This Power BI project is built to demonstrate dynamic dashboard design with inte
 ## 🗂️ Pages in the Report
 
 1. **Main Dashboard**
-   - Total Sales
+   - Dashboard Navigation
    - Total Profit
-   - Navigation to Sales / Profit pages
+   - Total Sales
 
 2. **Sales Dashboard**
    - Sales by Customer Segment (Donut)
