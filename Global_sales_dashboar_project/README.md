@@ -1,6 +1,7 @@
 # 📊 Sales Performance Dashboard – Power BI
 
-![Sales Dashboard](Dashboard Image.png)
+<img width="1762" height="992" alt="Dashboard Image" src="https://github.com/user-attachments/assets/1fa03077-c749-42b9-b3a7-e195d15b1bcc" />
+
 
 **A comprehensive and interactive Sales Performance Dashboard built in Microsoft Power BI** to analyze **monthly sales trends, product line performance, and year-over-year comparisons** across three years (2003–2005) using dynamic visual analytics.
 
