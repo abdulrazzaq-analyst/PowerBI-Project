@@ -26,6 +26,6 @@ This repository will include:
 
 ---
 
-If you like this project, feel free to connect with me via email at **abdulrazzaq@email.com** or check out more projects on my GitHub.
+If you like this project, feel free to connect with me via email at **abdulrazzaq.analytics@email.com** or check out more projects on my GitHub.
 
 
